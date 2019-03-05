@@ -8,3 +8,12 @@ var john = {
     }
 };
 console.log(john.calcBMI());
+
+var mark = {
+    fullName: 'Mark Vendor',
+    mass: 75,    //in kg
+    height: 1.2,   //in meters
+    calcBMI: function(){
+        return this.mass/(this.height * this.height);
+    }
+};
