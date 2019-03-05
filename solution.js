@@ -42,3 +42,4 @@ var mark = {
         this.BMI = this.mass/(this.height * this.height);
     }
 };
+mark.calcBMI();
