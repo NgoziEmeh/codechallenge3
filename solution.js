@@ -6,3 +6,4 @@ var john = {
         return this.mass/(this.height * this.height);
     }
 };
+console.log(john.calcBMI());
