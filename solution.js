@@ -51,3 +51,4 @@ if (mark.BMI > john.BMI){
     console.log(mark.fullName + ' has the highest BMI of '+ mark.BMI);
 }else if(mark.BMI === john.BMI){ 
     console.log(mark.fullName + 'and' + john.fullName + 'have equal BMI.');
+}else{    
