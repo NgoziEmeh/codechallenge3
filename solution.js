@@ -9,6 +9,7 @@ var john = {
 };
 console.log(john.calcBMI());
 
+//Second person object
 var mark = {
     fullName: 'Mark Vendor',
     mass: 75,    //in kg
