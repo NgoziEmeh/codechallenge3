@@ -1,2 +1,2 @@
 # codechallenge3
-Develop a function BMI Calculator with return statement and THIS keyword method
+Develop a BMI Calculator with function as an input of objects, return statement and THIS keyword method
