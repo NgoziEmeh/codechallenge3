@@ -19,3 +19,6 @@ var mark = {
     }
 };
 console.log(mark.calcBMI());
+
+
+// Saving BMI to object
