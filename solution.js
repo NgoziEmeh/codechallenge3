@@ -30,3 +30,4 @@ var john = {
         this.BMI = this.mass/(this.height * this.height);
     }
 };
+john.calcBMI();
