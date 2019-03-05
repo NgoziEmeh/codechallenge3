@@ -1,3 +1,4 @@
+//First person object
 var john = {
     fullName: 'John Smith',
     mass: 81,  //in kg
