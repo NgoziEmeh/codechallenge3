@@ -31,3 +31,4 @@ var john = {
     }
 };
 john.calcBMI();
+console.log(john);
