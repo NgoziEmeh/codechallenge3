@@ -17,3 +17,4 @@ var mark = {
         return this.mass/(this.height * this.height);
     }
 };
+console.log(mark.calcBMI());
