@@ -44,3 +44,7 @@ var mark = {
 };
 mark.calcBMI();
 console.log(mark);
+
+
+
+if (mark.BMI > john.BMI){
