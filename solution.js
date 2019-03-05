@@ -43,3 +43,4 @@ var mark = {
     }
 };
 mark.calcBMI();
+console.log(mark);
