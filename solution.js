@@ -32,3 +32,13 @@ var john = {
 };
 john.calcBMI();
 console.log(john);
+
+
+var mark = {
+    fullName: 'Mark Vendor',
+    mass: 75,    //in kg
+    height: 1.2,   //in meters
+    calcBMI: function(){
+        this.BMI = this.mass/(this.height * this.height);
+    }
+};
